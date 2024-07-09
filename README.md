@@ -39,7 +39,7 @@ LangGraph is built to support the execution of large-scale multi-agent applicati
 Reliability is a core consideration in the design of LangGraph. The library includes mechanisms for gracefully handling errors, ensuring that your application can continue to operate even when individual agents encounter issues. This fault tolerance is essential for maintaining the stability and robustness of complex multi-agent systems. Peace of mind is just a feature away.
 
 
-#**What is Travily ?**
+# **What is Travily ?**
 
 Tavily Search API is a search engine optimized for LLMs and RAG, aimed at efficient, quick and persistent search results. Unlike other search APIs such as Serp or Google, Tavily focuses on optimizing search for AI developers and autonomous AI agents. We take care of all the burden in searching, scraping, filtering and extracting the most relevant information from online sources. All in a single API call!
 
@@ -53,7 +53,7 @@ Why Choose Tavily Search API?​
 
 - **Versatility:** Beyond just fetching results, Tavily Search API offers precision. With customizable search depths, domain management, and parsing html content controls, you're in the driver's seat.
 
--**Performance:** Committed to rapidity and efficiency, our API guarantees real-time and trusted information. Please note that we're just getting started, so performance may vary and improve over time.
+- **Performance:** Committed to rapidity and efficiency, our API guarantees real-time and trusted information. Please note that we're just getting started, so performance may vary and improve over time.
 
 - **Integration-friendly:** We appreciate the essence of adaptability. That's why integrating our API with your existing setup is a breeze. You can choose our Python library or a simple API call or any of our supported partners such as Langchain and LLamaIndex.
 
