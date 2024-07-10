@@ -1,5 +1,9 @@
 # AI Agents in LangGraph
 
+
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtsRN_n5bZrMV8TE2TU5G0KD0kvS2FC2F6-Q&usqp=CAU)
+
 Imagine you're building a complex, multi-agent large language model (LLM) application. It's exciting, but it comes with challenges: managing the state of various agents, coordinating their interactions, and handling errors effectively. This is where LangGraph can help.
 
 LangGraph is a library within the LangChain ecosystem designed to tackle these challenges head-on. LangGraph provides a framework for defining, coordinating, and executing multiple LLM agents (or chains) in a structured manner.
